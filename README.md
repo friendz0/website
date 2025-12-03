@@ -1,4 +1,5 @@
-Features to add:
-[] image modality with captions
-[] personalized font
-[] site icon
+# Features to add:
+
+- [ ] image modality with captions
+- [ ] personalized font
+- [ ] site icon
