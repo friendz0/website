@@ -4,7 +4,7 @@
 - [ ] personalized font
 - [ ] site icon
 - [ ] speckled background
-- [ ] link to source code
+- [X] link to source code
 - [ ] comment book, freewebs style?
 - [ ] resume?
 - [ ] text animation
